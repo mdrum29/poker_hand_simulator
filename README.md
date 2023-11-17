@@ -28,6 +28,11 @@ Gif showing a set of simulations executing. Example is post flop with randomize 
 ## 3. Run example 2 
 Gif showing a set of simulations executing. Example is post flop with given opponent cards.
 
+## 4. Additional Examples.
 
+a. 
+![different_cards_no_flop](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/aa79993b-dc8d-4659-8cf8-3d3dede30dae)
 
-![Running_picture_2](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/d5939b8c-a327-47a6-8346-997f61837782)
+b. No table cards give.
+![image](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/33f009cb-c94b-4fbe-ae0c-52813a3138a1)
+
