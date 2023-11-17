@@ -15,9 +15,19 @@ sims = 100
 
 ![main_func_start](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/e6fab87f-4013-4352-86ef-fef4e0fc0e8c)
 
+
+
 ## 2. Run an example
-Gif showing a set of simulations executing.
+Gif showing a set of simulations executing. Example is post flop with randomize opponent cards.
+
 
 ![Running_picture](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/7799699d-7424-4218-9f73-3eed7afdab0e)
 
 
+
+## 3. Run example 2 
+Gif showing a set of simulations executing. Example is post flop with given opponent cards.
+
+
+
+![Running_picture_2](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/d5939b8c-a327-47a6-8346-997f61837782)
