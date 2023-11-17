@@ -17,7 +17,7 @@ sims = 100
 
 
 
-## 2. Run an example
+## 2. Run Example 1
 Gif showing a set of simulations executing. Example is post flop with randomize opponent cards.
 
 
@@ -25,10 +25,10 @@ Gif showing a set of simulations executing. Example is post flop with randomize 
 
 
 
-## 3. Run example 2 
+## 3. Run Example 2 
 Gif showing a set of simulations executing. Example is post flop with given opponent cards.
 
-## 4. Additional Examples.
+## 4. Additional Examples
 
 ### a. only hole cards given.
 ![different_cards_no_flop](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/aa79993b-dc8d-4659-8cf8-3d3dede30dae)
