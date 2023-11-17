@@ -18,7 +18,7 @@ sims = 100
 
 
 ## 2. Run Example 1
-Gif showing a set of simulations executing. Example is post flop with randomize opponent cards.
+Gif showing a set of simulations executing. Example is post flop with randomized opponent cards.
 
 
 ![Running_picture](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/7799699d-7424-4218-9f73-3eed7afdab0e)
