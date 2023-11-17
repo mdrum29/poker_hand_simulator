@@ -10,7 +10,14 @@ Cards are formatted cap first letter or number and lowercase first letter of sui
 hole_cards = ["As", "2h"]
 opponent_hole_cards = []
 
-table_cards = ["2s", "7h", "Th", "9c"]
+table_cards = ["9h", "9s", "7h"]    -> this means we are playing post flop
 sims = 100
 
 ![main_func_start](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/e6fab87f-4013-4352-86ef-fef4e0fc0e8c)
+
+## 2. Run an example
+Gif showing a set of simulations executing.
+
+![Running_picture](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/7799699d-7424-4218-9f73-3eed7afdab0e)
+
+
