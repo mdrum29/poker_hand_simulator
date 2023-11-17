@@ -30,9 +30,9 @@ Gif showing a set of simulations executing. Example is post flop with given oppo
 
 ## 4. Additional Examples.
 
-a. 
+### a. only hole cards given.
 ![different_cards_no_flop](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/aa79993b-dc8d-4659-8cf8-3d3dede30dae)
 
-b. No table cards give.
+### b. no table cards give.
 ![image](https://github.com/mdrum29/poker_hand_simulator/assets/96875916/33f009cb-c94b-4fbe-ae0c-52813a3138a1)
 
